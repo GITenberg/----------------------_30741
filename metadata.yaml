@@ -1,0 +1,41 @@
+_repo: '----------------------_30741'
+_version: 0.1.0
+alternative_title: Eryxias, Axiochus, Halcyon
+contributor:
+  translators:
+  - agent_name: Manesis, George D.
+    alias: Μάνεσης, Γεώργιος Δ.
+    gutenberg_agent_id: '34787'
+    url: http://www.gutenberg.org/2009/agents/34787
+  - agent_name: Lymperopoulos, A.
+    aliases:
+    - Λυμπερόπουλος, Α.
+    - Limperopoulos, A.
+    gutenberg_agent_id: '34788'
+    url: http://www.gutenberg.org/2009/agents/34788
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2009-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30741'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'PA'
+title: Ερυξίας, Αξίοχος, Αλκυών
+url: http://www.gutenberg.org/ebooks/30741
